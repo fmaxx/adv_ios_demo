@@ -1,5 +1,6 @@
 # project stuff
-*/AdvertisingSdk/output/
+output/
+Pods/
 
 # Mac OS X Finder
 .DS_Store

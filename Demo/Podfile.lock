@@ -1,3 +1,20 @@
-PODFILE CHECKSUM: fdca6795f5c1080be9cdebfc1712a4fcb36cc22f
+PODS:
+  - Alamofire (5.6.1)
+  - FmaxTestAdvertisingSdk (0.0.9):
+    - Alamofire
+
+DEPENDENCIES:
+  - FmaxTestAdvertisingSdk (~> 0.0.9)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FmaxTestAdvertisingSdk
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  FmaxTestAdvertisingSdk: d532213bf89c724cecec89f4d19f88d8731c72d2
+
+PODFILE CHECKSUM: 1e9dc9c7bc6ac8dd9bb1edcd8482a99b6f6ed271
 
 COCOAPODS: 1.11.3
